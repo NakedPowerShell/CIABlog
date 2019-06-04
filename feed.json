@@ -1,6 +1,6 @@
 {
     "version": "https://jsonfeed.org/version/1",
-    "title": "CIABook",
+    "title": "CIABlog",
     "description": "",
     "home_page_url": "https://nakedpowershell.github.io/CIABlog",
     "feed_url": "https://nakedpowershell.github.io/CIABlog/feed.json",
@@ -10,18 +10,18 @@
     },
     "items": [
         {
-            "id": "https://nakedpowershell.github.io/CIABlog/this-is-a-new-post.html",
-            "url": "https://nakedpowershell.github.io/CIABlog/this-is-a-new-post.html",
-            "title": "This is a new post",
-            "summary": "New post ",
-            "content_html": "<p>New post</p>\n<p> </p>\n<p> </p>",
+            "id": "https://nakedpowershell.github.io/CIABlog/test.html",
+            "url": "https://nakedpowershell.github.io/CIABlog/test.html",
+            "title": "Test",
+            "summary": "test",
+            "content_html": "test",
             "author": {
                 "name": "Dusty R"
             },
             "tags": [
             ],
-            "date_published": "2019-06-04T09:10:51-07:00",
-            "date_modified": "2019-06-04T09:34:19-07:00"
+            "date_published": "2019-06-04T09:45:26-07:00",
+            "date_modified": "2019-06-04T09:45:26-07:00"
         }
     ]
 }

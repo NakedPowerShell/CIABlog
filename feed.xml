@@ -1,33 +1,31 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <title>CIABook</title>
+    <title>CIABlog</title>
     <link href="https://nakedpowershell.github.io/CIABlog/feed.xml" rel="self" />
     <link href="https://nakedpowershell.github.io/CIABlog" />
-    <updated>2019-06-04T09:42:16-07:00</updated>
+    <updated>2019-06-04T09:48:33-07:00</updated>
     <author>
         <name>Dusty R</name>
     </author>
     <id>https://nakedpowershell.github.io/CIABlog</id>
 
     <entry>
-        <title>This is a new post</title>
+        <title>Test</title>
         <author>
             <name>Dusty R</name>
         </author>
-        <link href="https://nakedpowershell.github.io/CIABlog/this-is-a-new-post.html"/>
-        <id>https://nakedpowershell.github.io/CIABlog/this-is-a-new-post.html</id>
+        <link href="https://nakedpowershell.github.io/CIABlog/test.html"/>
+        <id>https://nakedpowershell.github.io/CIABlog/test.html</id>
 
-        <updated>2019-06-04T09:34:19-07:00</updated>
+        <updated>2019-06-04T09:45:26-07:00</updated>
             <summary>
                 <![CDATA[
-                    New post 
+                    test
                 ]]>
             </summary>
         <content type="html">
             <![CDATA[
-                <p>New post</p>
-<p> </p>
-<p> </p>
+                test
             ]]>
         </content>
     </entry>
